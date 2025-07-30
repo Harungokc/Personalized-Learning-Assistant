@@ -107,7 +107,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ## 👤 Contact
 
-**[Your Name]**
+**Harun Gökce**
 
 * **GitHub:** [github.com/Harungokc](https://github.com/Harungokc)
 * **LinkedIn:** [linkedin.com/in/www.linkedin.com/in/harun-gökce-08843a298](https://linkedin.com/in/www.linkedin.com/in/harun-gökce-08843a298)
